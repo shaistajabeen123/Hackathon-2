@@ -1,0 +1,2 @@
+# Console Todo App Requirements
+# Using Python standard library only - no external dependencies required
